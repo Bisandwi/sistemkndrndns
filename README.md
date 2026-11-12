@@ -1,3 +1,8 @@
+# GUNAKAN PADA SAAT LOGIN
+
+USER : admin
+PASSWORD : password
+
 # Sistem Pengelolaan Kendaraan Dinas Operasional
 
 Aplikasi web untuk pencatatan dan pemantauan kendaraan operasional instansi. Dibangun menggunakan **PHP Native, PDO, MySQL/MariaDB, Bootstrap 5, dan Chart.js**.
