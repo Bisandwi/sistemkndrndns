@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="170" viewBox="0 0 760 170" role="img" aria-labelledby="title desc">
+<title id="title">BPAD - Badan Pengelolaan Aset Daerah</title>
+<desc id="desc">Logo BPAD dengan simbol daun berwarna biru, toska dan emas, serta tulisan BPAD.</desc>
+<g transform="translate(8,8)">
+ <path d="M67 143 C18 115 28 55 70 20 C92 48 94 89 67 143Z" fill="#3E9BD4"/>
+ <path d="M70 143 C52 94 76 43 105 14 C129 59 111 111 70 143Z" fill="#25A8B5"/>
+ <path d="M71 143 C62 98 77 47 94 3 C119 39 111 77 71 143Z" fill="#F4B64A"/>
+ <path d="M70 143 C36 113 34 82 50 54 C61 73 69 105 70 143Z" fill="#3E9BD4"/>
+ <path d="M70 143 C89 107 105 83 126 67 C129 102 104 130 70 143Z" fill="#25A8B5"/>
+ <path d="M70 143 Q73 96 94 3" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+ <path d="M70 143 Q62 91 50 54" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+ <path d="M70 143 Q95 101 126 67" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="168" y="106" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" letter-spacing="4" fill="#4A9DD2">BPAD</text>
+<text x="174" y="137" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing=".4" fill="#4A9DD2">BADAN PENGELOLAAN ASET DAERAH</text>
+</svg>
